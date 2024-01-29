@@ -3,8 +3,8 @@
 <br>
 
 ### 📚 Experiences 
- - (2023.09 - 2024.01) Tave(Technology WAVE) 12th Backend Part </div>
- - (2022.03 - 2022.08) UMC(University MakeUs Challenge) 2th Web Part </div>
+ - (2023.09 - 2024.01) Tave (Technology WAVE) 12th Backend Part </div>
+ - (2022.03 - 2022.08) UMC (University MakeUs Challenge) 2th Web Part </div>
  - (2020.02 - ) Sungshin Women's University, Dept. Computer Engineering </div>
 <br>
 
