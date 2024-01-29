@@ -1,5 +1,5 @@
-<h3 align="center"> 안녕하세요👋 백엔드 공부 중인 박현빈입니다🌱</h3>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=300&section=header&text=Hyeonbin%20Park&fontSize=70&animation=fadeIn&fontColor=1C1C1C" /></p>
+<h3> 안녕하세요👋 백엔드 공부 중인 박현빈입니다🌱</h3>
+<!--<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=300&section=header&text=Hyeonbin%20Park&fontSize=70&animation=fadeIn&fontColor=1C1C1C" /></p>-->
 <br>
 
 ### 📚 Experiences 
